@@ -3,7 +3,7 @@ When in the current directory of the files type:
 make
 
 To execute enter the following in the command line :
-./test_hash_map.cc words.txt <hash_type>
+./test_hash_map words.txt <hash_type>
 where hash_type can be double , quadratic or chaining
 
 The code will generate a map with all words that can become another word with a change of a single letter 
